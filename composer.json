@@ -1,0 +1,14 @@
+{
+    "name": "tokenomy/tokex",
+    "description": "Tokenomy Exchange API library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ivan",
+            "email": "ivan@tokenomy.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
