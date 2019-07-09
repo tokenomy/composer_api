@@ -12,6 +12,7 @@ class Tokex
                 $this->tokenomy_secret = $secret_key;
         }
 
+        //PRIVATE API
         private function tokenomy_query($method, array $req = array()) {
                 // API settings
                 $key = $this->tokenomy_key; // your API-key
